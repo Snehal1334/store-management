@@ -1,0 +1,21 @@
+{
+  "products": [
+    {
+      "id": "prod01",
+      "productName": "Sundaram Notebook",
+      "description": "100 pages",
+      "category": "stationary",
+      "price": 60,
+      "quantity": 1000,
+      "inStock": true
+    },
+    {
+      "id": "prod02",
+      "productName": "keyboard",
+      "description": "Dell",
+      "category": "wierless",
+      "price": "700",
+      "inStock": true
+    }
+  ]
+}
